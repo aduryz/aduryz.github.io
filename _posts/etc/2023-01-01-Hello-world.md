@@ -19,3 +19,9 @@ Portfolio 겸 배우고 경험한 것을 공유하고자 **Jekyll**과 **GitHub 
 YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
 이 글의 제목은 {{ page.title }}이고
 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+
+<span style="color:#229756">seagreen 25% 포화도 저하</span> <br>
+#229756
+
+<span style="color:#e64a4a">lightcoral 25% 어둡게 25% 포화도 저하</span> <br>
+#e64a4a
